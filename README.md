@@ -74,9 +74,6 @@ NFC Attendance Management System is a comprehensive solution developed by Keshav
 - **views/dashboard.ejs**: EJS template for the teacher dashboard.
 - **views/login.ejs**: EJS template for the login page.
 
-## Developer
-- **Keshav Umesh**
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
